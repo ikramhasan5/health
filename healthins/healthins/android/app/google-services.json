@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501498656455",
+    "project_id": "healthins-7924b",
+    "storage_bucket": "healthins-7924b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501498656455:android:214ef7be904480a3eaf0e2",
+        "android_client_info": {
+          "package_name": "com.example.healthins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2y8_3iUzeRO92p0__He4EfcY8K2xnjaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
